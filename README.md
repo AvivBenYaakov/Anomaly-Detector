@@ -1,2 +1,2 @@
 # Anomaly-Detector
-Anomaly detector server in C++
+Implementation of simple anomaly detector server in C++
